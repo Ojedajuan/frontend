@@ -1,5 +1,5 @@
 body{margin-top:20px;
-  background:#ccb07d;
+  background:#da856b;
   }
   .contact-area {
       background-attachment: fixed;
@@ -14,8 +14,8 @@ body{margin-top:20px;
   }
 
   .contact input {
-      background: #fff;
-      border: 1px solid #fff;
+      background: #ffffff;
+      border: 1px solid #c6d821;
       border-radius: 3px;
       -webkit-box-shadow: none;
       box-shadow: none;
@@ -58,7 +58,7 @@ body{margin-top:20px;
   }
 
   .contact textarea:focus {
-      background: #fff;
+      background:  #c0ac77;
       border: 1px solid #fff;
       color: #232434;
       -webkit-box-shadow: none;
@@ -72,10 +72,10 @@ body{margin-top:20px;
   }
 
   .btn-contact-bg {
-      border-radius: 30px;
-      color: #fff;
+      border-radius: 10px;
+      color: #ffffff;
       outline: medium none !important;
-      padding: 15px 27px;
+      padding: 10px 20px;
       text-transform: capitalize;
       -webkit-transition: all 0.3s ease 0s;
       -o-transition: all 0.3s ease 0s;
@@ -107,7 +107,7 @@ body{margin-top:20px;
   }
 
   .single_address i {
-      background: #f6f6f6;
+      background: #c0ac77;
       color: #7564e5;
       border-radius: 30px;
       width: 60px;
