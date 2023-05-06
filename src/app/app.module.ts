@@ -10,6 +10,7 @@ import { LoginComponent } from './auth/login/login.component';
 import { ContactoComponent } from './shared/contacto/contacto.component';
 
 
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -17,8 +18,8 @@ import { ContactoComponent } from './shared/contacto/contacto.component';
     FooterComponent,
     DashboardComponent,
     LoginComponent,
-    ContactoComponent
-  ],
+    ContactoComponent,
+   ],
   imports: [
     BrowserModule,
     AppRoutingModule
